@@ -4,7 +4,7 @@
 
 ### Data Analyst · Python · SQL · Power BI · Excel
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ansh--thakur.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://ansh-thakur.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ansh--thakur--netlify.netlify.app-14345E?style=flat-square&logo=netlify&logoColor=white)](https://ansh-thakur-netlify.netlify.app/)
 [![Data Analytics](https://img.shields.io/badge/GitLab-Data_Analytics-6C8CFF?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ansht_121/data-analytics)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-thakur-5407192b4/)
 [![Email](https://img.shields.io/badge/Email-ansht1194%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ansht1194@gmail.com)
@@ -15,7 +15,7 @@
 
 **I answer business questions with data — including the ones where the answer is "don't do it."**
 
-B.Sc. IT graduate and Data Analytics Intern specialising in translating raw datasets into clean, reproducible, business-actionable insights. My portfolio covers 43,000 records across two end-to-end projects; key figures are traceable to the committed analysis and project documentation.
+B.Sc. IT graduate and Data Analytics Intern specialising in translating raw datasets into clean, reproducible, business-actionable insights. My portfolio covers 42,991 records across two end-to-end projects; key figures are traceable to the committed analysis and project documentation.
 
 ---
 
@@ -127,7 +127,7 @@ Both end-to-end projects live in my [Data Analytics repository](https://gitlab.c
 
 | | |
 | :--- | :--- |
-| Portfolio website | [ansh-thakur.netlify.app](https://ansh-thakur.netlify.app/) |
+| Portfolio website | [ansh-thakur-netlify.netlify.app](https://ansh-thakur-netlify.netlify.app/) |
 | Data Analytics repository | [gitlab.com/ansht_121/data-analytics](https://gitlab.com/ansht_121/data-analytics) |
 | Portfolio repository | [gitlab.com/ansht_121/ansh-thakur-portfolio](https://gitlab.com/ansht_121/ansh-thakur-portfolio) |
 | LinkedIn | [linkedin.com/in/ansh-thakur-5407192b4](https://www.linkedin.com/in/ansh-thakur-5407192b4/) |
