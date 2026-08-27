@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ansh--thakur--netlify.netlify.app-14345E?style=flat-square&logo=netlify&logoColor=white)](https://ansh-thakur-netlify.netlify.app/)
 [![Data Analytics](https://img.shields.io/badge/GitLab-Data_Analytics-6C8CFF?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ansht_121/data-analytics)
-[![Machine Learning](https://img.shields.io/badge/GitLab-Machine_Learning-FF6F00?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ansht_121/machine-learning-project)
+[![Data Science & ML](https://img.shields.io/badge/GitLab-Data_Science_%26_ML-FF6F00?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ansht_121/machine-learning-project)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-thakur-5407192b4/)
 [![Email](https://img.shields.io/badge/Email-ansht1194%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ansht1194@gmail.com)
 
@@ -18,7 +18,7 @@
 
 **I answer business questions with data — including the ones where the answer is "don't do it."**
 
-B.Sc. IT graduate and Data Analytics Intern who turns raw data into reproducible, business-actionable insight — and, increasingly, into predictive models. My public portfolio spans **10 end-to-end projects** across data analytics, machine learning, and full-stack development, with every headline figure traceable to committed code and documentation.
+B.Sc. IT graduate and Data Analytics Intern who turns raw data into reproducible, business-actionable insight — and, increasingly, into predictive models. My public portfolio spans **8 end-to-end projects** across data analytics and data science / machine learning, with every headline figure traceable to committed code and documentation.
 
 ---
 
@@ -27,8 +27,7 @@ B.Sc. IT graduate and Data Analytics Intern who turns raw data into reproducible
 | Repository | Focus | Highlights |
 | :--- | :--- | :--- |
 | [**Data Analytics**](https://gitlab.com/ansht_121/data-analytics) | SQL · Python · Power BI | 2 end-to-end projects · 42,991 records analysed |
-| [**Machine Learning**](https://gitlab.com/ansht_121/machine-learning-project) | scikit-learn · TensorFlow · NLP | 6 projects · CNN at **98.83%** test accuracy |
-| [**Full-Stack Project**](https://gitlab.com/ansht_121/college-full-stack-project) | React · Node/Express · Java Spring | 2 complete apps · auth, dashboards, REST APIs |
+| [**Data Science & ML**](https://gitlab.com/ansht_121/machine-learning-project) | scikit-learn · TensorFlow · NLP | 6 projects · CNN at **98.83%** test accuracy |
 | [**Portfolio Website**](https://gitlab.com/ansht_121/ansh-thakur-portfolio) | HTML/CSS · Netlify | Live site + downloadable resume |
 
 ---
@@ -37,7 +36,7 @@ B.Sc. IT graduate and Data Analytics Intern who turns raw data into reproducible
 
 I am an entry-level **Data Analyst** actively seeking roles in **Data Analytics** or **Business Intelligence**, with a growing **machine learning** toolkit that lets me move from *describing* what happened to *predicting* what comes next.
 
-My approach prioritises honest analysis over optimistic storytelling — negative findings and model limitations are reported with the same rigour as positive results, and my pipelines are built so anyone can verify the numbers from the source data. I work across the full stack: data cleaning and pipeline construction, SQL warehousing, Python EDA, predictive modelling, and BI dashboard delivery.
+My approach prioritises honest analysis over optimistic storytelling — negative findings and model limitations are reported with the same rigour as positive results, and my pipelines are built so anyone can verify the numbers from the source data. I work across the full analytical stack: data cleaning and pipeline construction, SQL warehousing, Python EDA, predictive modelling, and BI dashboard delivery.
 
 ---
 
@@ -72,9 +71,9 @@ My approach prioritises honest analysis over optimistic storytelling — negativ
 
 ---
 
-## Machine Learning Projects
+## Data Science & ML Projects
 
-Six end-to-end projects in my [Machine Learning repository](https://gitlab.com/ansht_121/machine-learning-project) — each structured as a proper package with modular `src/`, `tests/`, and a `params.yaml` config, not just a loose notebook.
+Six end-to-end projects in my [Data Science & ML repository](https://gitlab.com/ansht_121/machine-learning-project) — each structured as a proper package with modular `src/`, `tests/`, and a `params.yaml` config, not just a loose notebook.
 
 | # | Project | Problem Type | Approach | Result |
 | :-- | :--- | :--- | :--- | :--- |
@@ -97,15 +96,6 @@ Both end-to-end projects live in my [Data Analytics repository](https://gitlab.c
 | :--- | :--- | :--- | :--- |
 | [Supply Chain Performance Analysis](https://gitlab.com/ansht_121/data-analytics/-/tree/main/supply-chain-performance-analysis) | 7,991 orders · 47 SKUs · $82.7M revenue | Python · MySQL · Excel VBA · Power BI | Late delivery is systemic — only 0.08% of delivery-time variance is between warehouses |
 | [Uber Trip Demand Analysis](https://gitlab.com/ansht_121/data-analytics/-/tree/main/uber-trip-demand-analysis) | 35,000 trips · ₹1.35 Cr revenue | MySQL · Python · Excel · Power BI | 5–7 PM carries 31.2% of demand; airport trips are 39.6% of volume but 54.8% of revenue |
-
----
-
-## Full-Stack Projects
-
-Proof I can build the application layer around the data, not just analyse it — see the [full-stack repository](https://gitlab.com/ansht_121/college-full-stack-project).
-
-- **Academic Grade Management System** — React frontend + Node/Express REST API + SQL, with JWT authentication, role-based admin/faculty/student dashboards, marks entry, automatic grade calculation, and rank lists.
-- **Warehouse Inventory Management System** — Java **Spring Boot** REST API (layered controller/service/repository/entity architecture, Spring Security) with a React frontend.
 
 ---
 
@@ -155,8 +145,7 @@ CGPA: **7.26 / 10** · 2022 – 2025
 | :--- | :--- |
 | Portfolio website | [ansh-thakur-netlify.netlify.app](https://ansh-thakur-netlify.netlify.app/) |
 | Data Analytics repository | [gitlab.com/ansht_121/data-analytics](https://gitlab.com/ansht_121/data-analytics) |
-| Machine Learning repository | [gitlab.com/ansht_121/machine-learning-project](https://gitlab.com/ansht_121/machine-learning-project) |
-| Full-Stack repository | [gitlab.com/ansht_121/college-full-stack-project](https://gitlab.com/ansht_121/college-full-stack-project) |
+| Data Science & ML repository | [gitlab.com/ansht_121/machine-learning-project](https://gitlab.com/ansht_121/machine-learning-project) |
 | Portfolio repository | [gitlab.com/ansht_121/ansh-thakur-portfolio](https://gitlab.com/ansht_121/ansh-thakur-portfolio) |
 | LinkedIn | [linkedin.com/in/ansh-thakur-5407192b4](https://www.linkedin.com/in/ansh-thakur-5407192b4/) |
 | Resume | [Download PDF](https://gitlab.com/ansht_121/ansh-thakur-portfolio/-/raw/main/Analyst_Resume.pdf) |
