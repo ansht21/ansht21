@@ -18,7 +18,7 @@
 
 **I answer business questions with data — including the ones where the answer is "don't do it."**
 
-B.Sc. IT graduate and Data Analytics Intern who turns raw data into reproducible, business-actionable insight — and, increasingly, into predictive models. My public portfolio spans **8 end-to-end projects** across data analytics and data science / machine learning, with every headline figure traceable to committed code and documentation.
+B.Sc. IT graduate and Data Analytics Intern who turns raw data into reproducible, business-actionable insight — and, increasingly, into predictive models. My public portfolio spans **9 end-to-end projects** across data analytics and data science / machine learning, with every headline figure traceable to committed code and documentation.
 
 ---
 
