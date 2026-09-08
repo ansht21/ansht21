@@ -26,7 +26,7 @@ B.Sc. IT graduate and Data Analytics Intern who turns raw data into reproducible
 
 | Repository | Focus | Highlights |
 | :--- | :--- | :--- |
-| [**Data Analytics**](https://gitlab.com/ansht_121/data-analytics) | SQL · Python · Power BI | 2 end-to-end projects · 42,991 records analysed |
+| [**Data Analytics**](https://gitlab.com/ansht_121/data-analytics) | SQL · Python · Power BI | 3 end-to-end projects · 50,023 records analysed |
 | [**Data Science & ML**](https://gitlab.com/ansht_121/machine-learning-project) | scikit-learn · TensorFlow · NLP | 6 projects · CNN at **98.83%** test accuracy |
 | [**Portfolio Website**](https://gitlab.com/ansht_121/ansh-thakur-portfolio) | HTML/CSS · Netlify | Live site + downloadable resume |
 
@@ -90,12 +90,13 @@ Six end-to-end projects in my [Data Science & ML repository](https://gitlab.com/
 
 ## Data Analytics Projects
 
-Both end-to-end projects live in my [Data Analytics repository](https://gitlab.com/ansht_121/data-analytics), with full READMEs, SQL scripts, Python notebooks, and dashboards.
+Three end-to-end projects live in my [Data Analytics repository](https://gitlab.com/ansht_121/data-analytics), with full READMEs, SQL scripts, Python notebooks, and dashboards.
 
 | Project | Scale | Stack | Headline Finding |
 | :--- | :--- | :--- | :--- |
 | [Supply Chain Performance Analysis](https://gitlab.com/ansht_121/data-analytics/-/tree/main/supply-chain-performance-analysis) | 7,991 orders · 47 SKUs · $82.7M revenue | Python · MySQL · Excel VBA · Power BI | Late delivery is systemic — only 0.08% of delivery-time variance is between warehouses |
 | [Uber Trip Demand Analysis](https://gitlab.com/ansht_121/data-analytics/-/tree/main/uber-trip-demand-analysis) | 35,000 trips · ₹1.35 Cr revenue | MySQL · Python · Excel · Power BI | 5–7 PM carries 31.2% of demand; airport trips are 39.6% of volume but 54.8% of revenue |
+| [Subscription Retention Analytics](https://gitlab.com/ansht_121/data-analytics/-/tree/main/subscription-retention-analytics) | 7,032 customers · 26.6% churn | Python · MySQL · Excel | Month-to-month contracts churn at 42.7%; month-to-month + fiber represents 72% of revenue at risk |
 
 ---
 
