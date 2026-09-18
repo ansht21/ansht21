@@ -38,6 +38,8 @@ I am an entry-level **Data Analyst** actively seeking roles in **Data Analytics*
 
 My approach prioritises honest analysis over optimistic storytelling — negative findings and model limitations are reported with the same rigour as positive results, and my pipelines are built so anyone can verify the numbers from the source data. I work across the full analytical stack: data cleaning and pipeline construction, SQL warehousing, Python EDA, predictive modelling, and BI dashboard delivery.
 
+In the AI era I work **with AI as a co-pilot, not a replacement for judgment**: AI accelerates code drafting, documentation, and dashboard scaffolding — but every generated query, model output, and figure is executed and validated against the raw data before it reaches a stakeholder.
+
 ---
 
 ## Core Skills
@@ -49,6 +51,7 @@ My approach prioritises honest analysis over optimistic storytelling — negativ
 | **Machine Learning** | CNNs · Linear & Logistic Regression · Random Forest · TF-IDF NLP · content-based recommenders · model evaluation |
 | **BI & Visualization** | Power BI (DAX measures, multi-page dashboards) · Excel (VBA, Macros, Power Query, Pivot Tables) |
 | **SQL Techniques** | CTEs · `LAG()` · `RANK()` · `ROW_NUMBER()` · running `SUM() OVER` · `STDDEV_SAMP()` |
+| **AI-Assisted Analytics** | Prompt engineering · AI pair-programming · AI-assisted EDA & documentation · human validation gates |
 | **Development** | Jupyter · Google Colab · Git & GitLab · modular `src/` + tests + `params.yaml` · PowerShell / Bash |
 
 ---
@@ -107,6 +110,16 @@ Three end-to-end projects live in my [Data Analytics repository](https://gitlab.
 3. **SQL & EDA** — schema design and layered queries; distribution checks, correlation, and visualisations that confirm *or challenge* the hypothesis.
 4. **Model or visualise** — a predictive model with the right algorithm and metric, or a Power BI / Excel dashboard built for the stakeholder, not the analyst.
 5. **Report honestly** — confounded metrics, dead-end findings, and model limitations are documented, not hidden.
+6. **Co-pilot with AI, verify like an analyst** — AI drafts, I execute and reconcile: every generated query, model output, and figure is validated against the raw data before it ships.
+
+### The four skills I build on (the AI-era survival set)
+
+| Pillar | In practice |
+| :--- | :--- |
+| **System design over syntax** | End-to-end pipelines (raw → cleaning → SQL → BI) designed for reproducibility; architecture is a human decision |
+| **AI as co-pilot, not competitor** | Prompt engineering + AI-assisted workflows, with hallucination-catching validation gates |
+| **Business understanding** | Every analysis answers a decision; three of my case studies correctly concluded "don't act" |
+| **Communication & storytelling** | Headline-first findings, honest caveats, dashboards readable without an analyst in the room |
 
 ---
 
