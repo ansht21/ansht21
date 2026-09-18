@@ -51,7 +51,7 @@ In the AI era I work **with AI as a co-pilot, not a replacement for judgment**: 
 | **Machine Learning** | CNNs · Linear & Logistic Regression · Random Forest · TF-IDF NLP · content-based recommenders · model evaluation |
 | **BI & Visualization** | Power BI (DAX measures, multi-page dashboards) · Excel (VBA, Macros, Power Query, Pivot Tables) |
 | **SQL Techniques** | CTEs · `LAG()` · `RANK()` · `ROW_NUMBER()` · running `SUM() OVER` · `STDDEV_SAMP()` |
-| **AI-Assisted Analytics** | Prompt engineering · AI pair-programming · AI-assisted EDA & documentation · human validation gates |
+| **AI-Assisted Analytics** | Prompt engineering · AI pair-programming · AI-assisted EDA & documentation · human validation gates · [Tata GenAI Powered Data Analytics Job Simulation](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_Pn2fgx9uC9r33pJRp_1752581188250_completion_certificate.pdf) |
 | **Development** | Jupyter · Google Colab · Git & GitLab · modular `src/` + tests + `params.yaml` · PowerShell / Bash |
 
 ---
