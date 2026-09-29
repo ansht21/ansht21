@@ -2,9 +2,9 @@
 
 # Ansh Thakur
 
-### Data Analyst & Machine Learning Practitioner
+### Data Analyst | Business Intelligence & Applied Analytics
 
-#### Python · SQL · Power BI · scikit-learn · TensorFlow
+#### SQL · Python · Power BI · Advanced Excel · Statistics · Machine Learning
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ansh--thakur--netlify.netlify.app-14345E?style=flat-square&logo=netlify&logoColor=white)](https://ansh-thakur-netlify.netlify.app/)
 [![Data Analytics](https://img.shields.io/badge/GitLab-Data_Analytics-6C8CFF?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ansht_121/data-analytics)
@@ -91,15 +91,27 @@ Six end-to-end projects in my [Data Science & ML repository](https://gitlab.com/
 
 ---
 
-## Data Analytics Projects
+## Data Analytics Projects: Real-World Business Decisions
 
-Three end-to-end projects live in my [Data Analytics repository](https://gitlab.com/ansht_121/data-analytics), with full READMEs, SQL scripts, Python notebooks, and dashboards.
+In enterprise analytics, projects aren't judged by lines of code — they are judged by the **business questions they resolve and the capital they protect**. Every project in my [Data Analytics repository](https://gitlab.com/ansht_121/data-analytics) connects raw data to executive strategy:
 
-| Project | Scale | Stack | Headline Finding |
-| :--- | :--- | :--- | :--- |
-| [Supply Chain Performance Analysis](https://gitlab.com/ansht_121/data-analytics/-/tree/main/supply-chain-performance-analysis) | 7,991 orders · 47 SKUs · $82.7M revenue | Python · MySQL · Excel VBA · Power BI | Late delivery is systemic — only 0.08% of delivery-time variance is between warehouses |
-| [Uber Trip Demand Analysis](https://gitlab.com/ansht_121/data-analytics/-/tree/main/uber-trip-demand-analysis) | 35,000 trips · ₹1.35 Cr revenue | MySQL · Python · Excel · Power BI | 5–7 PM carries 31.2% of demand; airport trips are 39.6% of volume but 54.8% of revenue |
-| [Subscription Retention Analytics](https://gitlab.com/ansht_121/data-analytics/-/tree/main/subscription-retention-analytics) | 7,032 customers · 26.6% churn | Python · MySQL · Excel | Month-to-month contracts churn at 42.7%; month-to-month + fiber represents 72% of revenue at risk |
+### 1. [Supply Chain Performance & Inventory Optimization](https://gitlab.com/ansht_121/data-analytics/-/tree/main/supply-chain-performance-analysis)
+* **The Business Question:** *"Half our orders miss the 5-day delivery target, exposing $36.3M of net revenue. Which warehouse is failing, and where should we invest in physical facility upgrades?"*
+* **How We Solved It:** Built a Python data cleaning pipeline (`openpyxl`, Pandas), mapped relational MySQL schemas, conducted ANOVA-style variance decomposition, and deployed an interactive Excel VBA & Power BI dashboard across 7,991 orders ($82.7M gross / $73.0M net revenue).
+* **The Counter-Intuitive Finding:** Ranking warehouses by late-order count blames warehouse NMK1003 (31.9% of late orders), but that's a pure volume illusion (it processes 31.4% of all orders). Decomposing delivery-time variance revealed that **only 0.08% of variance is between warehouses** — all six have an identical 2.82–2.88 day spread.
+* **The Post-Analysis Business Decision:** **Do NOT fund a multimillion-dollar facility overhaul.** The bottleneck is systemic and upstream (supplier procurement lead times and 3PL dispatch scheduling). Additionally, A/B-style margin testing proved discounts $\ge 20\%$ collapse margin to 4.64%, leading to executive pricing floors.
+
+### 2. [Ride Demand & Dynamic Revenue Analytics](https://gitlab.com/ansht_121/data-analytics/-/tree/main/uber-trip-demand-analysis)
+* **The Business Question:** *"When should we launch surge-pricing, where should we stage premium fleet tiers, and can we safely concentrate supply into our top 2 pickup zones?"*
+* **How We Solved It:** Designed a two-stage MySQL deduplication pipeline on 35,000 trips using `ROW_NUMBER()`, applied CTEs with `LAG()` to isolate volume acceleration, trained a Scikit-learn `RandomForestRegressor` for predictive fare estimation, and delivered an executive Power BI KPI dashboard.
+* **The Counter-Intuitive Finding:** Peak *growth* occurs at **5 PM (+138%)**, an hour before the 6 PM volume peak. Low-rated drivers appeared to earn more, but controlling for distance revealed fare-per-km is flat at ₹22.06–22.41 (ratings dropped due to trip fatigue, not driver quality). Pareto analysis disproved the "top zones" hypothesis (it requires 4 of 5 zones to reach 80% revenue).
+* **The Post-Analysis Business Decision:** Shift driver surge incentives to **4:30 PM** (an hour earlier) to build supply ahead of the rush. Pre-dispatch premium vehicles to airport routes where **39.6% of volume generates 54.8% of gross revenue**. Maintain full city-wide coverage rather than abandoning lower-density zones.
+
+### 3. [Subscription Retention & Revenue-at-Risk Analytics](https://gitlab.com/ansht_121/data-analytics/-/tree/main/subscription-retention-analytics)
+* **The Business Question:** *"We are losing 26.6% of our subscription customer base. Who is churning, when do they leave, and how do we target our retention budget to protect the largest dollar amount?"*
+* **How We Solved It:** Performed hypothesis testing using SciPy (`chi2_contingency`, Cramér's V effect size), tracked customer tenure cohorts in SQL, and built an executive Excel retention dashboard on 7,032 subscriber records.
+* **The Counter-Intuitive Finding:** Fiber-optic customers churn more (42.7%), but this was confounded by contract type — month-to-month contracts account for 72% of total revenue-at-risk, while 2-year contracts show virtually zero churn.
+* **The Post-Analysis Business Decision:** Reallocate retention discounts away from broad-brush campaigns and directly into **converting month-to-month fiber customers into annual contracts** within their first 90 days.
 
 ---
 
