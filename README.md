@@ -1,7 +1,34 @@
 # Ansh Thakur
 
+<div align="left">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ansht21&color=1D6C64&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ansht21)
+[![GitHub followers](https://img.shields.io/github/followers/ansht21?style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/ansht21?tab=followers)
+[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Data_Analyst-2E7D32?style=for-the-badge)](mailto:ansht1194@gmail.com)
+
+</div>
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
 **Data Analyst | Business Intelligence & Applied Analytics**  
 *Turning complex datasets into reproducible, boardroom-ready business decisions.*
+
+<div align="center">
+
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansht21&show_icons=true&theme=vue&hide_border=true&bg_color=F5F5F0&title_color=123F3B&text_color=14171D&icon_color=1D6C64)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansht21&layout=compact&theme=vue&hide_border=true&bg_color=F5F5F0&title_color=123F3B&text_color=14171D)
+![GitHub Streak](https://streak-stats.demolab.com?user=ansht21&theme=vue&hide_border=true&background=F5F5F0&ring=1D6C64&fire=B9822E&currStreakLabel=123F3B)
+
+</div>
 
 [Portfolio](https://ansh-thakur-netlify.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/ansh-thakur-5407192b4/) · [Email](mailto:ansht1194@gmail.com) · [Resume](https://ansh-thakur-netlify.netlify.app/Analyst_Resume.pdf) · [GitLab](https://gitlab.com/ansht_121) · [GitHub](https://github.com/ansht21)
 
