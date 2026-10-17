@@ -1,32 +1,39 @@
 # Ansh Thakur
 
-<div align="left">
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ansht21&color=1D6C64&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ansht21)
-[![GitHub followers](https://img.shields.io/github/followers/ansht21?style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/ansht21?tab=followers)
-[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Data_Analyst-2E7D32?style=for-the-badge)](mailto:ansht1194@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Turning+50K%2B+rows+into+boardroom+decisions)](https://github.com/ansht21)
 
-</div>
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=ansht21&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ansht21)
+[![Followers](https://img.shields.io/github/followers/ansht21?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00C7B7)](https://github.com/ansht21?tab=followers)
+[![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Data_Analyst-00C853?style=for-the-badge&labelColor=0D1117)](mailto:ansht1194@gmail.com)
 
 </div>
-
-**Data Analyst | Business Intelligence & Applied Analytics**  
-*Turning complex datasets into reproducible, boardroom-ready business decisions.*
 
 <div align="center">
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansht21&show_icons=true&theme=vue&hide_border=true&bg_color=F5F5F0&title_color=123F3B&text_color=14171D&icon_color=1D6C64)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansht21&layout=compact&theme=vue&hide_border=true&bg_color=F5F5F0&title_color=123F3B&text_color=14171D)
-![GitHub Streak](https://streak-stats.demolab.com?user=ansht21&theme=vue&hide_border=true&background=F5F5F0&ring=1D6C64&fire=B9822E&currStreakLabel=123F3B)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00C7B7)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=00C853)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FF6B9D)
+![Machine Learning](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+<div align="center">
+
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansht21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&icon_color=F2C811&ring_color=00C7B7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansht21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9)
+![GitHub Streak](https://streak-stats.demolab.com?user=ansht21&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=F2C811&currStreakLabel=00C7B7&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ansht21&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ansht21)
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansht21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=F2C811)
+
+![snake](https://raw.githubusercontent.com/ansht21/ansht21/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
