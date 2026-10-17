@@ -29,11 +29,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansht21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ansht21&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=F2C811&currStreakLabel=00C7B7&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ansht21&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ansht21)
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansht21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=F2C811)
-
-![snake](https://raw.githubusercontent.com/ansht21/ansht21/output/github-contribution-grid-snake-dark.svg)
+![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansht21&theme=tokyonight)
+![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansht21&theme=tokyonight)
+![most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansht21&theme=tokyonight)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansht21&theme=tokyonight)
+![productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansht21&theme=tokyonight&utcOffset=5.5)
 
 </div>
 
