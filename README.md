@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Turning+50K%2B+rows+into+boardroom+decisions)](https://github.com/ansht21)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Excel;Turning+180K%2B+rows+into+boardroom+decisions)](https://github.com/ansht21)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ansht21&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ansht21)
 [![Followers](https://img.shields.io/github/followers/ansht21?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=00C7B7)](https://github.com/ansht21?tab=followers)
@@ -50,10 +50,11 @@ I am a **B.Sc. IT graduate** and **Data Analyst** specializing in diagnostic ana
 ## 🚀 Flagship Repository
 
 ### 📊 [Data Analytics & Business Intelligence Portfolio](https://github.com/ansht21/data-analytics) · [GitLab mirror](https://gitlab.com/ansht_121/data-analytics)
-*3 comprehensive analytics projects covering **50,034 transactional records**, plus an interactive Streamlit analytics copilot.*
+*4 comprehensive analytics projects & production engines covering **179,010+ transactional records**, plus an interactive Streamlit analytics copilot.*
 
 | Project | Scale | Tech Stack | Core Business Insight & Action |
 |:---|:---|:---|:---|
+| **[Weekly Revenue Reconciliation Engine](https://gitlab.com/ansht_121/weekly-revenue-reconciliation-engine)** | 128,976 orders (₹7.86 cr volume) | Python · Pandas · openpyxl · Streamlit | **Audited Revenue Leakage:** Automated classification of 13 order states across 14 fiscal weeks; isolated ₹82L+ in cancellation & return leakage with automated Executive Excel & Streamlit dashboards. |
 | **[Supply Chain Performance](https://github.com/ansht21/data-analytics/tree/main/supply-chain-performance-analysis)** | 7,991 orders (₹7.30 cr net revenue) | Python · MySQL · Excel VBA | **Disproved warehouse overhaul:** ANOVA variance decomposition proved only 0.08% of delivery variance was between warehouses (NMK1003 was a volume illusion). Saved planned facility capital expenditure. |
 | **[Ride Demand Analytics](https://github.com/ansht21/data-analytics/tree/main/uber-trip-demand-analysis)** | 35,000 trips | MySQL · Python · Power BI | **Optimized surge timing:** `LAG()` window functions proved fare revenue accelerates at 5 PM (+138%, trip volume +75%), an hour before the 6 PM volume peak. Shifted driver incentives to 4:30 PM. |
 | **[Subscription Retention](https://github.com/ansht21/data-analytics/tree/main/subscription-retention-analytics)** | 7,032 customers | Python · MySQL · Excel | **Targeted retention spending:** Uncovered that month-to-month contracts account for 72% of revenue-at-risk; reallocated retention budget to 90-day contract conversion. |
@@ -69,9 +70,9 @@ I am a **B.Sc. IT graduate** and **Data Analyst** specializing in diagnostic ana
 |:---|:---|:---|
 | **SQL & Databases** | MySQL, PostgreSQL | CTEs, Window Functions (`LAG`, `RANK`, `ROW_NUMBER`), Running Totals, ANOVA Variance Decomposition |
 | **Data Analysis & Scripting** | Python (Pandas, NumPy, SciPy) | Exploratory Data Analysis (EDA), Hypothesis Testing, Data Cleansing & Deduplication |
-| **BI & Visualization** | Power BI, Microsoft Excel, Plotly, Seaborn | Multi-page Dashboards, DAX Measures, Power Query, VBA Automations, Interactive KPI Cards |
+| **BI & Visualization** | Power BI, Microsoft Excel, openpyxl, Plotly, Seaborn | Multi-page Dashboards, DAX Measures, Power Query, VBA Automations, Automated Excel Dashboards |
 | **Predictive Analytics** | Scikit-learn | Time-series forecasting, Regression, Classification, Model Evaluation (ROC-AUC, RMSE, $R^2$) |
-| **Engineering & Delivery** | Git & GitLab, Streamlit, Linux/Bash | Modular Project Structure, Unit Testing (`pytest`), Automated KPI Generation |
+| **Engineering & Delivery** | Git & GitLab, Streamlit, Docker, Linux/Bash | Modular Project Structure, Unit Testing (`pytest`), Automated KPI Generation, CI/CD Pipelines |
 
 ---
 
