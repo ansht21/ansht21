@@ -28,6 +28,7 @@
 ![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansht21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&icon_color=F2C811&ring_color=00C7B7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansht21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ansht21&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=F2C811&currStreakLabel=00C7B7&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
+  ![Contribution snake](https://raw.githubusercontent.com/ansht21/ansht21/output/github-contribution-grid-snake.svg)
 
 ![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansht21&theme=tokyonight)
 ![repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansht21&theme=tokyonight)
