@@ -50,16 +50,15 @@ I am a **B.Sc. IT graduate** and **Data Analyst** specializing in diagnostic ana
 ## 🚀 Flagship Repository
 
 ### 📊 [Data Analytics & Business Intelligence Portfolio](https://github.com/ansht21/data-analytics) · [GitLab mirror](https://gitlab.com/ansht_121/data-analytics)
-*5 comprehensive analytics projects & production engines covering **179,010+ transactional records** — including a contract-first data guard and an interactive Streamlit copilot.*
+*5 comprehensive analytics projects & production engines covering **179,010+ transactional records** — including a contract-first data guard and a weekly revenue reconciliation engine.*
 
 | Project | Scale | Tech Stack | Core Business Insight & Action |
 |:---|:---|:---|:---|
-| **[Weekly Revenue Reconciliation Engine](https://gitlab.com/ansht_121/weekly-revenue-reconciliation-engine)** | 128,976 orders (₹7.86 cr volume) | Python · Pandas · openpyxl · Streamlit | **Audited Revenue Leakage:** Automated classification of 13 order states across 14 fiscal weeks; isolated ₹82L+ in cancellation & return leakage with automated Executive Excel & Streamlit dashboards. |
+| **[Weekly Revenue Reconciliation Engine](https://github.com/ansht21/data-analytics/tree/main/weekly-revenue-reconciliation-engine)** | 128,976 orders (₹7.86 cr volume) | Python · Pandas · openpyxl · Streamlit | **Audited Revenue Leakage:** Automated classification of 13 order states across 14 fiscal weeks; isolated ₹82L+ in cancellation & return leakage with automated Executive Excel & Streamlit dashboards. |
 | **[Supply Chain Performance](https://github.com/ansht21/data-analytics/tree/main/supply-chain-performance-analysis)** | 7,991 orders (₹7.30 cr net revenue) | Python · MySQL · Excel VBA | **Disproved warehouse overhaul:** ANOVA variance decomposition proved only 0.08% of delivery variance was between warehouses (NMK1003 was a volume illusion). Saved planned facility capital expenditure. |
 | **[Ride Demand Analytics](https://github.com/ansht21/data-analytics/tree/main/uber-trip-demand-analysis)** | 35,000 trips | MySQL · Python · Power BI | **Optimized surge timing:** `LAG()` window functions proved fare revenue accelerates at 5 PM (+138%, trip volume +75%), an hour before the 6 PM volume peak. Shifted driver incentives to 4:30 PM. |
 | **[Subscription Retention](https://github.com/ansht21/data-analytics/tree/main/subscription-retention-analytics)** | 7,032 customers | Python · MySQL · Excel | **Targeted retention spending:** Uncovered that month-to-month contracts account for 72% of revenue-at-risk; reallocated retention budget to 90-day contract conversion. |
 | **[🛡️ Pipeline Contract Agent](https://github.com/ansht21/data-analytics/tree/main/pipeline-contract-agent)** | 7,991 orders contract-guarded | Python · pandas · FastAPI · Streamlit · Docker | **Protected data quality:** YAML data contract quarantines corrupt batches with incident report + `fix.patch` (agent investigates, humans approve). **22/22 tests passing**, CI on every push. |
-| **[Analytics Copilot](https://github.com/ansht21/data-analytics/tree/main/analytics-intelligence-copilot)** | 50,034 records | Streamlit · Pandas · Plotly | Interactive interface with 9 one-click insight chips. **18/18 regression tests passing**. |
 
 > 📦 Code lives on **GitHub** (primary) with a full **GitLab** mirror — same history, both up to date.
 
