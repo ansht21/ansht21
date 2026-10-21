@@ -38,7 +38,7 @@
 
 </div>
 
-[Portfolio](https://ansh-thakur-netlify.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/ansh-thakur-5407192b4/) · [Email](mailto:ansht1194@gmail.com) · [Resume](https://ansh-thakur-netlify.netlify.app/Analyst_Resume.pdf) · [GitLab](https://gitlab.com/ansht_121) · [GitHub](https://github.com/ansht21)
+[Portfolio](https://ansh-thakur-netlify.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/ansh-thakur-5407192b4/) · [Email](mailto:ansht1194@gmail.com) · [Resume](https://github.com/ansht21/ansh-thakur-portfolio/blob/main/Analyst_Resume.pdf) · [GitLab](https://gitlab.com/ansht_121) · [GitHub](https://github.com/ansht21)
 
 ---
 
