@@ -51,8 +51,8 @@ I am a **B.Sc. IT graduate** and **Data Analyst** specializing in diagnostic ana
 ## 🚀 Flagship Repository
 
 ### 📊 [Data Analytics & Business Intelligence Portfolio](https://github.com/ansht21/data-analytics)
-[![CI](https://github.com/ansht21/data-analytics/actions/workflows/pipeline.yml/badge.svg)](https://github.com/ansht21/data-analytics/actions/workflows/pipeline.yml)
-[![Engine CI](https://github.com/ansht21/data-analytics/actions/workflows/weekly-revenue-reconciliation-engine.yml/badge.svg)](https://github.com/ansht21/data-analytics/actions/workflows/weekly-revenue-reconciliation-engine.yml)
+[![Contract Agent CI](https://gitlab.com/ansht_121/data-analytics/badges/main/pipeline.svg?key=pipeline_contract_agent&style=for-the-badge)](https://gitlab.com/ansht_121/data-analytics/-/pipelines)
+[![Revenue Engine CI](https://gitlab.com/ansht_121/data-analytics/badges/main/pipeline.svg?key=weekly_revenue_reconciliation_engine&style=for-the-badge)](https://gitlab.com/ansht_121/data-analytics/-/pipelines)
  · [GitLab mirror](https://gitlab.com/ansht_121/data-analytics)
 *5 comprehensive analytics projects & production engines covering **179,010+ transactional records** — including a contract-first data guard and a weekly revenue reconciliation engine.*
 
