@@ -52,12 +52,12 @@ I am a **B.Sc. Information Technology graduate** targeting **Associate Software 
 
 ## 🚀 Featured Engineering & Analytics Repositories
 
-### 1. 🖥️ [Full-Stack Projects Monorepo](https://github.com/ansht21/college-full-stack-project)
-[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ansht21/college-full-stack-project)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/ansht21/college-full-stack-project)
-[![React 18](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/ansht21/college-full-stack-project)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/ansht21/college-full-stack-project)
-[![19 Tests Passing](https://img.shields.io/badge/Unit_Tests-19%2F19_Passed-00C853?style=flat-square&logo=junit5&logoColor=white)](https://github.com/ansht21/college-full-stack-project)
+### 1. 🖥️ [Full-Stack Projects Monorepo](https://github.com/ansht21/full-stack-enterprise-systems)
+[![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/ansht21/full-stack-enterprise-systems)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/ansht21/full-stack-enterprise-systems)
+[![React 18](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/ansht21/full-stack-enterprise-systems)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/ansht21/full-stack-enterprise-systems)
+[![19 Tests Passing](https://img.shields.io/badge/Unit_Tests-19%2F19_Passed-00C853?style=flat-square&logo=junit5&logoColor=white)](https://github.com/ansht21/full-stack-enterprise-systems)
 
 *Two complete, self-contained enterprise full-stack applications in a unified repository with automated GitHub Actions CI/CD pipeline.*
 
@@ -90,10 +90,10 @@ I am a **B.Sc. Information Technology graduate** targeting **Associate Software 
 
 ---
 
-### 3. 🤖 [Machine Learning & Data Science Portfolio](https://github.com/ansht21/Data-Science-Project)
-[![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ansht21/Data-Science-Project)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/ansht21/Data-Science-Project)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/ansht21/Data-Science-Project)
+### 3. 🤖 [Machine Learning & Data Science Portfolio](https://github.com/ansht21/machine-learning-portfolio)
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/ansht21/machine-learning-portfolio)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/ansht21/machine-learning-portfolio)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/ansht21/machine-learning-portfolio)
 
 *6 machine learning and applied deep learning implementations with verified evaluation benchmarks:*
 * **Handwritten Digit Recognition**: CNN trained on MNIST dataset achieving **98.83% test accuracy** with Dropout regularization.
